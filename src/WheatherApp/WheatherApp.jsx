@@ -10,7 +10,7 @@ import drizzle_icon from '../Assets/drizzle.png'
 import humidity_icon from '../Assets/humidity.png'
 export const WheatherApp = () => {
 
-    let api_key = "e6abab01772612ec3c4270671027212e";
+    // let api_key = "e6abab01772612ec3c4270671027212e";
 
     const [wicon, setwicon] = useState(cloud_icon);
 
